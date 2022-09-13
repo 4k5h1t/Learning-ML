@@ -1,2 +1,2 @@
-# Machine-Learning-Intro
-Studying Machine Learning
+# Learning Machine Learning
+
